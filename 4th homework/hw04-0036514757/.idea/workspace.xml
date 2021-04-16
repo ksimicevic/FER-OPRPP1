@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cde7c04-8141-453b-be9a-a632ecf39416" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jm0Gxs4R4egwPHOUvZ3L3Q6011" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\korin\Documents\Odabrana poglavlja razvoja programske potpore 1\Homeworks\4th homework\hw04-0036514757\src\main\java\hr\fer\zemris\lystems\impl" />
+      <recent name="C:\Users\korin\Documents\Odabrana poglavlja razvoja programske potpore 1\Homeworks\4th homework\hw04-0036514757\src\resources" />
+      <recent name="C:\Users\korin\Documents\Odabrana poglavlja razvoja programske potpore 1\Homeworks\4th homework\hw04-0036514757\src\main\java" />
+      <recent name="C:\Users\korin\Documents\Odabrana poglavlja razvoja programske potpore 1\Homeworks\4th homework\hw04-0036514757\src\main\java\hr\fer\oprpp1\hw04\db" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hr.fer.zemris.lystems.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\korin\Documents\Odabrana poglavlja razvoja programske potpore 1\Homeworks\4th homework\hw04-0036514757\src\main\java\hr\fer\zemris\lystems\impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LSystemsBuilderImpl.testGenerate">
+    <configuration name="Glavni1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.zemris.lystems.impl.demo.Glavni1" />
+      <module name="hw04-0036514757" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.zemris.lystems.impl.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Glavni2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.zemris.lystems.impl.demo.Glavni2" />
+      <module name="hw04-0036514757" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.zemris.lystems.impl.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Glavni3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.zemris.lystems.impl.demo.Glavni3" />
+      <module name="hw04-0036514757" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.zemris.lystems.impl.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oprpp1.hw04.db.StudentDB" />
+      <module name="hw04-0036514757" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oprpp1.hw04.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LSystemsBuilderImpl.testGenerate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw04-0036514757" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.zemris.lystems.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hr.fer.zemris.lystems.impl" />
+      <option name="MAIN_CLASS_NAME" value="hr.fer.zemris.lystems.impl.LSystemsBuilderImpl" />
+      <option name="METHOD_NAME" value="testGenerate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentDB" />
+        <item itemvalue="Application.Glavni1" />
+        <item itemvalue="Application.Glavni3" />
+        <item itemvalue="Application.Glavni2" />
+        <item itemvalue="JUnit.LSystemsBuilderImpl.testGenerate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cde7c04-8141-453b-be9a-a632ecf39416" name="Default Changelist" comment="" />
+      <created>1604393869442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604393869442</updated>
+      <workItem from="1604393870537" duration="74000" />
+      <workItem from="1604393963763" duration="28119000" />
+      <workItem from="1604480484771" duration="4983000" />
+      <workItem from="1604564434899" duration="25634000" />
+      <workItem from="1604845922617" duration="1827000" />
+      <workItem from="1604935469225" duration="1841000" />
+      <workItem from="1610539889026" duration="684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/fer/zemris/lystems/impl/demo/Glavni2.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/fer/oprpp1/hw04/db/StudentDatabse.java</url>
+          <line>18</line>
+          <properties class="hr.fer.oprpp1.hw04.db.StudentDatabse" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

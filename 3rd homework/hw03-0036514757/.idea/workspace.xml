@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98f1ae32-c9d4-4ad3-a387-235cc1cd4003" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jS3Ltu2zO0O82madO5sGsXM0az" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../1st homework/hw01-0036514757" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\korin\Documents\Odabrana poglavlja razvoja programske potpore 1\Homeworks\3rd homework\hw03-0036514757\src\main\java\hr\fer\oprpp1\custom\collections" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\korin\Documents\Odabrana poglavlja razvoja programske potpore 1\Homeworks\3rd homework\hw03-0036514757\src\main\java\hr\fer\oprpp1\custom\collections" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrayIndexedCollection">
+    <configuration name="ArrayIndexedCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oprpp1.custom.collections.ArrayIndexedCollection" />
+      <module name="hw03-0036514757" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oprpp1.custom.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayIndexedCollectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw03-0036514757" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oprpp1.custom.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hr.fer.oprpp1.custom.collections" />
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oprpp1.custom.collections.ArrayIndexedCollectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayIndexedCollectionTest.testConstructorGiveArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw03-0036514757" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oprpp1.custom.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hr.fer.oprpp1.custom.collections" />
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oprpp1.custom.collections.ArrayIndexedCollectionTest" />
+      <option name="METHOD_NAME" value="testConstructorGiveArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayIndexedCollectionTest.testInsertMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw03-0036514757" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oprpp1.custom.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hr.fer.oprpp1.custom.collections" />
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oprpp1.custom.collections.ArrayIndexedCollectionTest" />
+      <option name="METHOD_NAME" value="testInsertMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vector2DTest.testRotate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw03-0036514757" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oprpp1.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hr.fer.oprpp1.math" />
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oprpp1.math.Vector2DTest" />
+      <option name="METHOD_NAME" value="testRotate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayIndexedCollection" />
+        <item itemvalue="JUnit.ArrayIndexedCollectionTest.testConstructorGiveArray" />
+        <item itemvalue="JUnit.ArrayIndexedCollectionTest.testInsertMethod" />
+        <item itemvalue="JUnit.ArrayIndexedCollectionTest" />
+        <item itemvalue="JUnit.Vector2DTest.testRotate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98f1ae32-c9d4-4ad3-a387-235cc1cd4003" name="Default Changelist" comment="" />
+      <created>1603783619354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603783619354</updated>
+      <workItem from="1603783620651" duration="127000" />
+      <workItem from="1603783769103" duration="15362000" />
+      <workItem from="1603873966337" duration="11618000" />
+      <workItem from="1603962597214" duration="7901000" />
+      <workItem from="1604229344580" duration="3159000" />
+      <workItem from="1604393717096" duration="147000" />
+      <workItem from="1605546032722" duration="1051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1603806800434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1603806800434" />
+    <state x="386" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1603963983895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="386" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603963983895" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605547092166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605547092166" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605547093990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605547093990" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605547093990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605547093990" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605547093990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605547093990" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605547093990">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605547093990" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1603968127699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603968127699" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1603968127699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603968127699" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1603968127699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603968127699" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1603968127699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603968127699" />
+    <state x="209" y="73" key="new project wizard" timestamp="1604393744669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1604393744669" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1603965818259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603965818259" />
+  </component>
+</project>
